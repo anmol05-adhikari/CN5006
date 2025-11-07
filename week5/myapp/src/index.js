@@ -1,7 +1,6 @@
-
+import GreetingElement from './myGreetingApp';
 import AppColor from './AddbackgroundColor';
 import GreetingElementwithProp from './mygreetingprop';
-import GreetingElement from './myGreetingApp';
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
